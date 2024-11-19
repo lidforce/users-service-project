@@ -4,7 +4,7 @@
 
 1. `git clone https://github.com/lidforce/users-service-project.git`
 2. `npm install`
-3. Создать базу данных PostgreSQL и заменить значения переменных окружения в файле .env
+3. Создать базу данных PostgreSQL и заменить значения переменных окружения в файле [.env](https://github.com/lidforce/users-service-project/blob/main/.env)
 4. `npm run prisma:migrate`
 5. `npm run start` или `npm start:dev`
    
